@@ -1,6 +1,8 @@
 # UW-Social
 A website helps UW transfer students, international students, and freshmen to form and expand their social circle. Users can find friends with same interests, courses, career plan, clubs, and even dorm building. They can join all kinds of events published by different organizations to make new friends offline, and publish their own events.
+# UW Event-Runners
+A Registered Student Organization at UW for more opportunities.
 ### Project Overview
-This document will contain all necessary information about the technology stack, features, database schema, and implementation details. Future development should reference this document to maintain consistency. Pending update
+This document will contain all necessary information about the technology stack, features, database schema, and implementation details. Future development should reference this document to maintain consistency. See onboarding.md.
 ### Repository documentation
 See wiki.
