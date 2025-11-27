@@ -3,6 +3,6 @@ A website helps UW transfer students, international students, and freshmen to fo
 ### UW Event-Runners
 A Registered Student Organization at UW for more opportunities.
 ### Project Overview
-This document will contain all necessary information about the technology stack, features, database schema, and implementation details. Future development should reference this document to maintain consistency. See onboarding.md.
+This document will contain all necessary information about the technology stack, features, database schema, and implementation details. Future development should reference this document to maintain consistency.
 ### Repository documentation
 See wiki.
