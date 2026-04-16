@@ -5,4 +5,4 @@ A Registered Student Organization at UW for more opportunities. -->
 ### Project Overview
 This document will contain all necessary information about the technology stack, features, database schema, and implementation details. Future development should reference this document to maintain consistency.
 ### Repository documentation
-See wiki & docs in source repos. 
+See docs in source repos. 
